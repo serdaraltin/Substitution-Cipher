@@ -1,4 +1,4 @@
-# Substitution-Cipher
+# Dogrusal Sifreleme (Substitution-Cipher)
 Yerine Koyma Algoritması ile hazırlanmış şifreleme yazılımı.
 
 Youtube kanalında verilen eğitime katkıda bulunması amacıyla hazırlanmıştır.<br>
