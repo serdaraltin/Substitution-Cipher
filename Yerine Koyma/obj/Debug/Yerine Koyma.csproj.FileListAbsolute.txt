@@ -1,0 +1,9 @@
+c:\users\meyta\documents\visual studio 2015\Projects\Yerine Koyma\Yerine Koyma\bin\Debug\Yerine Koyma.exe.config
+c:\users\meyta\documents\visual studio 2015\Projects\Yerine Koyma\Yerine Koyma\bin\Debug\Yerine Koyma.exe
+c:\users\meyta\documents\visual studio 2015\Projects\Yerine Koyma\Yerine Koyma\bin\Debug\Yerine Koyma.pdb
+c:\users\meyta\documents\visual studio 2015\Projects\Yerine Koyma\Yerine Koyma\obj\Debug\Yerine Koyma.csprojResolveAssemblyReference.cache
+c:\users\meyta\documents\visual studio 2015\Projects\Yerine Koyma\Yerine Koyma\obj\Debug\Yerine_Koyma.Form1.resources
+c:\users\meyta\documents\visual studio 2015\Projects\Yerine Koyma\Yerine Koyma\obj\Debug\Yerine_Koyma.Properties.Resources.resources
+c:\users\meyta\documents\visual studio 2015\Projects\Yerine Koyma\Yerine Koyma\obj\Debug\Yerine Koyma.csproj.GenerateResource.Cache
+c:\users\meyta\documents\visual studio 2015\Projects\Yerine Koyma\Yerine Koyma\obj\Debug\Yerine Koyma.exe
+c:\users\meyta\documents\visual studio 2015\Projects\Yerine Koyma\Yerine Koyma\obj\Debug\Yerine Koyma.pdb
