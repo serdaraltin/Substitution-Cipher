@@ -45,7 +45,7 @@ Mesajın uzunluğu beş ile bölünemezse, sonunda " **boş** " ile doldurulabil
 
 **Tasarım - Form1.Designer.cs**
 
-![Form1](https://github.com/serdaraltin/Substitution-Cipher/blob/master/Yerine%20Koyma/bin/Debug/ScreenShot.PNG)
+![Form1](https://github.com/serdaraltin/Substitution-Cipher/blob/master/Yerine%20Koyma/obj/Debug/ScreenShot.PNG)
 
 ------------
 
