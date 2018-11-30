@@ -1,4 +1,4 @@
-# Sezar-Sifreleme (Caesar Cipher)
+# Yerine Koyma Şifrelemesi (Substitution Cipher)
 **Yerine Koyma Algoritması ile hazırlanmış şifreleme yazılımı.**
 
 ------------
