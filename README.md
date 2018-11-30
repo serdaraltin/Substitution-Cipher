@@ -1,11 +1,11 @@
-# Yerine Koyma Şifrelemesi (Substitution Cipher)
+# Sezar-Sifreleme (Caesar Cipher)
 **Yerine Koyma Algoritması ile hazırlanmış şifreleme yazılımı.**
 
 ------------
 
 
 
-- [YOUTUBE](https://www.youtube.com/channel/UCltJlvbcFATfBm0qHttpZNg?view_as=subscriber "YOUTUBE") kanalında verilen eğitime katkıda bulunması amacıyla hazırlanmıştır.
+- **[YOUTUBE](https://www.youtube.com/channel/UCltJlvbcFATfBm0qHttpZNg?view_as=subscriber "YOUTUBE") **kanalında verilen eğitime katkıda bulunması amacıyla hazırlanmıştır.
 - **VISUAL STUDIO 2015** editörü kullanılarak hazırlanan uygulama görsel bir arayüze sahiptir.
 
 
