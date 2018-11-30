@@ -20,8 +20,8 @@ Tek harflerin ayrı ayrı ikame edilmesi - basit ikame - ikamesini temsil etmek 
 
 Bu sistemi kullanarak, " **zebralar** " anahtar kelimesi bize aşağıdaki alfabeleri verir:
 
-Düz metin alfabesi:	**ABCDEFGHIJKLMNOPQRSTUVWXYZ**
-Şifreli alfabe:**	ZEBRASCDFGHIJKLMNOPQTUVWXY**
+Düz metin alfabesi:	**ABCDEFGHIJKLMNOPQRSTUVWXYZ**<br>
+Şifreli alfabe:**ZEBRASCDFGHIJKLMNOPQTUVWXY**<br>
 Bir mesaj
 
     bir kerede kaçmak. keşfettik!
